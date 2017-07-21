@@ -1,7 +1,7 @@
 import random
 console.log(how many numbers should the program go up to?)
 user_input=input()
-var x= user_input
+var x = user_input
 
 print("here are the numbers")
 for (loop=0;loop=x;loop++){
